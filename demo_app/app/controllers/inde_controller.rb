@@ -1,0 +1,2 @@
+class IndeController < ApplicationController
+end
